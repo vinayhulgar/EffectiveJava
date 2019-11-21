@@ -1,5 +1,11 @@
 # EffectiveJava
 
+Item 42: Prefer Lambdas to Anonymous Classes <br />
+  :pushpin: .<br />
+
+
+
+
 Item 57: Minimize the scope of local Variables.<br />
   :pushpin: The most powerful technique for minimizing the scope of a local variable is to declare it where it is first used.<br />
   :pushpin: Nearly every local variable declaration should contain an initializer.<br />
